@@ -1,0 +1,18 @@
+C:\Users\s.o.kravchenko\documents\visual studio 2012\Projects\aAcREST\aAcREST\bin\Debug\aAcREST.exe.config
+C:\Users\s.o.kravchenko\documents\visual studio 2012\Projects\aAcREST\aAcREST\bin\Debug\aAcREST.exe
+C:\Users\s.o.kravchenko\documents\visual studio 2012\Projects\aAcREST\aAcREST\bin\Debug\aAcREST.pdb
+C:\Users\s.o.kravchenko\documents\visual studio 2012\Projects\aAcREST\aAcREST\obj\Debug\aAcREST.Form1.resources
+C:\Users\s.o.kravchenko\documents\visual studio 2012\Projects\aAcREST\aAcREST\obj\Debug\aAcREST.Properties.Resources.resources
+C:\Users\s.o.kravchenko\documents\visual studio 2012\Projects\aAcREST\aAcREST\obj\Debug\aAcREST.csproj.GenerateResource.Cache
+C:\Users\s.o.kravchenko\documents\visual studio 2012\Projects\aAcREST\aAcREST\obj\Debug\aAcREST.exe
+C:\Users\s.o.kravchenko\documents\visual studio 2012\Projects\aAcREST\aAcREST\obj\Debug\aAcREST.pdb
+C:\Users\s.o.kravchenko\documents\visual studio 2012\Projects\aAcREST\aAcREST\obj\Debug\aAcREST.csprojResolveAssemblyReference.cache
+C:\Users\s.o.kravchenko\Documents\Visual Studio 2012\Projects\aAcREST\aAcREST\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\1\aAcREST\aAcREST\bin\Debug\aAcREST.exe.config
+D:\1\aAcREST\aAcREST\bin\Debug\aAcREST.exe
+D:\1\aAcREST\aAcREST\bin\Debug\aAcREST.pdb
+D:\1\aAcREST\aAcREST\obj\Debug\aAcREST.Form1.resources
+D:\1\aAcREST\aAcREST\obj\Debug\aAcREST.Properties.Resources.resources
+D:\1\aAcREST\aAcREST\obj\Debug\aAcREST.csproj.GenerateResource.Cache
+D:\1\aAcREST\aAcREST\obj\Debug\aAcREST.exe
+D:\1\aAcREST\aAcREST\obj\Debug\aAcREST.pdb
